@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "net-browserify": "^0.2.4",
+    "tls-browserify": "^0.2.2"
+  },
   "devDependencies": {
     "electrum-host-parse": "*"
   },
